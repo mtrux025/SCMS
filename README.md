@@ -1,0 +1,2 @@
+# SCMS
+SimpleCircuitManagingSystem
